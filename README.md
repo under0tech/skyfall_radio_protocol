@@ -281,7 +281,16 @@ By leveraging the **Skyfall protocol** and the **HC-12 radio driver**, you can e
 
 It intended to be used across a wide range of environments, from **smart agriculture and greenhouse automation** to **perimeter security networks** for yards and farms. Whether you are tracking real-time environmental metrics or streaming encrypted images from remote camera nodes, the *Skyfall protocol* ensures that data remains safe from external tampering **[DO NOT FORGET to replace encryption keys in your code]**.
 
-![An example Skyfall server device](skyfall_server.png)
+<table>
+  <tr>
+    <td style='text-align:center'>Client device</td>
+    <td style='text-align:center'>Server device</td>
+  </tr>
+  <tr>
+    <td><a href="skyfall_client.png"><img src="skyfall_client.png" width="400"></a></td>
+    <td><a href="skyfall_server.png"><img src="skyfall_server.png" width="571"></a></td>
+  </tr>
+</table>
 
 The synergy between resilient, long-range radio hardware and a secure protocol removes traditional infrastructure limits **where the traditional internet or Wifi are not available**.
 
