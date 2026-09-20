@@ -283,6 +283,8 @@ It intended to be used across a wide range of environments, from **smart agricul
 
 The synergy between resilient, long-range radio hardware and a secure protocol removes traditional infrastructure limits **where the traditional internet or Wifi are not available**.
 
+[HC-12 radio basefarm IoT client/server example](https://medium.com/@dmytrosazonov/iot-how-to-stay-connected-when-others-dont-with-hc-12-radio-4e8100011cc5)
+
 ## Get in touch
 Questions? Feel free to message me on Twitter:
 https://twitter.com/dmytro_sazonov
